@@ -54,3 +54,7 @@ JSON de ejemplo para el login
 El Login retorna el JSON con los siguientes campos:
 ○ email: unico de cada usuario
 ○ token: token de acceso de la API
+
+### Diagrama de la Solucion  ###
+
+![Diagrama de Integración](diagrama_demo_integracion.drawio.png)
